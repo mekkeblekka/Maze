@@ -1,3 +1,7 @@
+![](finalpath30FLTK.gif)
+
+
+
 Maze
 
 	Simple program to solve mazes in .png where each tile is 1x1 pixel.
